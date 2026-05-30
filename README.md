@@ -146,8 +146,12 @@ python fcfs.py
 
 ## 👨‍💻 Author
 
-**Md. Tausif Uddin**  
-B.Sc. in Computer Science and Engineering (CSE)  
+### Md Tausif Uddin
+
+Department of Computer Science & Engineering (CSE)  
 University of Asia Pacific (UAP)
+
+GitHub: https://github.com/tausif112
+
 
 ⭐ If you found this project useful, consider giving it a star.
