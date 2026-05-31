@@ -153,5 +153,8 @@ University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
 
+<div align='center'>
 
 ⭐ If you found this project useful, consider giving it a star.
+
+</div>
