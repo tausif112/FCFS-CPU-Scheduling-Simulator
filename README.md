@@ -11,17 +11,17 @@
 </div>
 
 ---
-
+<div align="center">
 ## 📌 Overview
-
+</div>
 A Python-based implementation of the **First Come First Serve (FCFS)** CPU Scheduling Algorithm. The project calculates process waiting times, average waiting time, and generates a simple Gantt Chart representation.
 
 Developed and tested using **Google Colaboratory (Google Colab)**.
 
 ---
-
+<div align="center">
 ## ✨ Features
-
+</div>
 * FCFS Scheduling Simulation
 * Waiting Time Calculation
 * Average Waiting Time Calculation
@@ -29,9 +29,9 @@ Developed and tested using **Google Colaboratory (Google Colab)**.
 * Google Colab Notebook Included
 
 ---
-
+<div align="center">
 ## 🧠 About FCFS
-
+</div>
 FCFS (First Come First Serve) is a non-preemptive CPU scheduling algorithm where the process that arrives first gets executed first.
 
 ### Advantages
@@ -47,9 +47,9 @@ FCFS (First Come First Serve) is a non-preemptive CPU scheduling algorithm where
 * Inefficient for interactive systems
 
 ---
-
+<div align="center">
 ## ⚙️ Algorithm
-
+</div>
 1. Start with current time = 0
 2. Execute processes sequentially
 3. Calculate waiting times
@@ -58,9 +58,9 @@ FCFS (First Come First Serve) is a non-preemptive CPU scheduling algorithm where
 6. Compute average waiting time
 
 ---
-
+<div align="center">
 ## 🧮 Input
-
+</div>
 ```python
 processes = [
     ('P1', 21),
@@ -69,9 +69,9 @@ processes = [
     ('P4', 2)
 ]
 ```
-
+<div align="center">
 ## 📊 Output
-
+</div>
 ```text
 Gantt Chart: 0 P1 21 P2 24 P3 30 P4 32
 
@@ -79,21 +79,21 @@ Average Waiting Time: 18.75
 ```
 
 ---
-
+<div align="center">
 ## 📸 Google Colab Workspace
-
+</div>
 ![Colab Workspace](screenshots/colab-workspace.png)
 
 ---
-
+<div align="center">
 ## 📈 Program Output
-
+</div>
 ![Output](screenshots/output.png)
 
 ---
-
+<div align="center">
 ## 📂 Project Structure
-
+</div>
 ```text
 FCFS-CPU-Scheduling-Simulator/
 │
@@ -109,9 +109,9 @@ FCFS-CPU-Scheduling-Simulator/
 ```
 
 ---
-
+<div align="center">
 ## 🚀 Run Locally
-
+</div>
 ```bash
 git clone https://github.com/tausif112/FCFS-CPU-Scheduling-Simulator.git
 
@@ -121,9 +121,9 @@ python fcfs.py
 ```
 
 ---
-
+<div align="center">
 ## 🛠 Technologies Used
-
+</div>
 | Technology        | Purpose                 |
 | ----------------- | ----------------------- |
 | Python            | Core Implementation     |
@@ -132,9 +132,9 @@ python fcfs.py
 | Operating Systems | Scheduling Concepts     |
 
 ---
-
+<div align="center">
 ## 🔮 Future Improvements
-
+</div>
 * Arrival Time Support
 * Turnaround Time Calculation
 * Response Time Calculation
