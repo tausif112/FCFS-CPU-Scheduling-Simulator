@@ -165,11 +165,8 @@ python fcfs.py
 | Operating Systems | Scheduling Concepts     |
 
 ---
-<div align="center">
-    
-## 🔮 Future Improvements
 
-</div>
+## 🔮 Future Improvements
 
 * Arrival Time Support
 * Turnaround Time Calculation
@@ -179,11 +176,10 @@ python fcfs.py
 * Graphical Gantt Chart Visualization
 
 ---
-<div align='center'>
-    
+
 ## 👨‍💻 Author
 
-
+<div align='center'>
     
 ### Md Tausif Uddin
 
