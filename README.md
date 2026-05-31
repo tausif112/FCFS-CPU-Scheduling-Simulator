@@ -12,8 +12,11 @@
 
 ---
 <div align="center">
+    
 ## 📌 Overview
+
 </div>
+
 A Python-based implementation of the **First Come First Serve (FCFS)** CPU Scheduling Algorithm. The project calculates process waiting times, average waiting time, and generates a simple Gantt Chart representation.
 
 Developed and tested using **Google Colaboratory (Google Colab)**.
