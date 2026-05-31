@@ -146,6 +146,8 @@ python fcfs.py
 
 ## 👨‍💻 Author
 
+<div align='center'>
+    
 ### Md Tausif Uddin
 
 Department of Computer Science & Engineering (CSE)  
@@ -153,6 +155,7 @@ University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
 
+</div>
 ---
 
 <div align='center'>
