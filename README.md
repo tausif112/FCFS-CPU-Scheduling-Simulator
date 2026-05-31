@@ -143,10 +143,11 @@ python fcfs.py
 * Graphical Gantt Chart Visualization
 
 ---
-
+<div align='center'>
+    
 ## 👨‍💻 Author
 
-<div align='center'>
+
     
 ### Md Tausif Uddin
 
@@ -155,8 +156,9 @@ University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
 
-</div>
 ---
+
+</div>
 
 <div align='center'>
 
